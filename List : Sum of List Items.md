@@ -20,3 +20,4 @@ print(tot)
 ![image](https://github.com/user-attachments/assets/22867803-3f43-4d1d-aca3-3cb3f2ea7f21)
 
 ## Result
+Thus,the program has been executed successfully.
